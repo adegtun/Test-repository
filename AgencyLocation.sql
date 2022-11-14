@@ -1,1 +1,0 @@
-select * from palliativecare.AgencyLocations where AccountId = '39fd6a6b-7363-7311-1fca-b69f3f4fbd66' and Id = '39fbc008-36a2-6900-e16c-a453694285b3'
